@@ -1,0 +1,96 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2009   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: MOACIR PISTORI                       MATRICULA...: 002022-0
+CARGO/FUNC.: TEC NIV SUPER PL I                   EMPRESA.....: ITAIPU ME 
+LOTACAO....: ODRA.CD                              ESCR.EMPREG.: GU 
+DESTINO....: FOZ DO IGUACU                        GRUPO DIARIA: C  
+PERIODO DE.: 28/12/2008 A 30/12/2008              LOCAL PGTO..: FI 
+HORA.......:   20:00    A   17:30                 CORRENTISTA.: 0000300311
+BCO P/CRED.: HSBC BANK BRASIL S.A - BANCO M  AGE.: 0061-2  CTA: 3084-16     
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  004007 3134065201   72412    4        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS:                                                                       
+DESCRICAO DO MOTIVO DA VIAGEM:
+ ATUAR INTERINAMENTE NA GERÊNCIA DA ODR.CD.                                 
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ FOZ  28/12/2008  29/12/2008     2     100,00           149,00            298,00
+ FOZ  30/12/2008  30/12/2008     1      35,00           149,00             52,15
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+28/12/2008   ESTACION. E PEDÁGIO         PAGAMENTO DE PEDAGIO               9,20
+30/12/2008   ESTACION. E PEDÁGIO         PAGAMENTO DE PEDAGIO               9,20
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:              0,00
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:             18,40
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2009   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:            350,15   (+)
+          DESPESAS REALIZADAS....................:             18,40   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:            368,55   (=)
+          ADIANTAMENTO DE DIARIAS................:              0,00   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:            368,55   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+               +-- IMPORTANTE :----------------------------------+
+               : Antes da proxima viagem verifique se e possivel :
+               : substitui-la por uma videoconferencia           :
+               +-------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              MOACIR PISTORI                
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE           368,55
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

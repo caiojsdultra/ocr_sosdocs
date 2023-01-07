@@ -1,0 +1,94 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2007   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: TARCISIO JOSE SCHMIDT                MATRICULA...: 002143-7
+CARGO/FUNC.: MOTORISTA II                         EMPRESA.....: ITAIPU ME 
+LOTACAO....: SGST.AD                              ESCR.EMPREG.: FI 
+DESTINO....: CASCAVEL                             GRUPO DIARIA: D  
+PERIODO DE.: 22/12/2006 A 22/12/2006              LOCAL PGTO..: FI 
+HORA.......:   11:30    A   17:42                 CORRENTISTA.: 0000301432
+BCO P/CRED.: CAIXA ECONOMICA FEDERAL         AGE.: 4006-1  CTA: 130662-8    
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  000005 3134045201   52512    4        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS:                                                                       
+DESCRICAO DO MOTIVO DA VIAGEM:
+ ATENDENDO FUNC. DA JURIDICA SR MARCIO LEVAR PROCESSO NA JUSTICA FEDERAL    
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ OLB  22/12/2006  22/12/2006     1      35,00           115,00             40,25
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+22/12/2006   ESTACION. E PEDÁGIO         PEDAGIO ALM-3687                  26,40
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:              0,00
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:             26,40
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2007   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:             40,25   (+)
+          DESPESAS REALIZADAS....................:             26,40   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:             66,65   (=)
+          ADIANTAMENTO DE DIARIAS................:              0,00   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:             66,65   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+               +-- IMPORTANTE :----------------------------------+
+               : Antes da proxima viagem verifique se e possivel :
+               : substitui-la por uma videoconferencia           :
+               +-------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              TARCISIO JOSE SCHMIDT         
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE            66,65
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

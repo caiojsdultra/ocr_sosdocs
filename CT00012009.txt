@@ -1,0 +1,98 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2009   I               I
+I   CDVR330S    I       ***   PRESTACAO DE CONTAS   ***        I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: OLMEDO GONZALEZ, HERMINIO F.         MATRICULA...: 160132-5
+CARGO/FUNC.: SUPERINTENDENTE ADJ.                 EMPRESA.....: ITAIPU MD 
+LOTACAO....: AAF.DF                               ESCR.EMPREG.: CT 
+DESTINO....: ASUNCION                             GRUPO DIARIA: B  
+PERIODO DE.: 04/01/2009 A 09/01/2009              LOCAL PGTO..: CT 
+HORA.......:   13:23    A   16:50                 CORRENTISTA.: 0000300892
+BCO P/CRED.: ABN AMRO REAL S.A.              AGE.: 0945-8  CTA: 8704546-2   
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  004006 3134045201   60300    2        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS: TRECHO CDE-ASU EFECTUADO EL 07/01/09 CON VEHÍCULO DE LA ENTIDAD.      
+DESCRICAO DO MOTIVO DA VIAGEM:
+ TAREAS REFERENTES A LA AF.DF.                                              
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ FOZ  04/01/2009  06/01/2009     3     100,00           195,00            585,00
+ ASU  07/01/2009  08/01/2009     2     100,00           281,36            562,72
+ ASU  09/01/2009  09/01/2009     1      35,00           281,36             98,48
+------------------------------***        PASSAGENS      ***---------------------
+ORIGEM       DESTINO      DATA     HORA  NR.BIL.CIA              VALOR      SIT.
+CURITIBA     FOZ DO IGUAÇ 04/01/09 13:23 684469 LATAM           324,22     UTIL.
+CIUDAD DEL E ASUNCIÓN     07/01/09 16:30 684470 TAM             174,51     CANC.
+ASUNCIÓN     CURITIBA     09/01/09 16:50 R8565G GOL             295,97     UTIL.
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+04/01/2009   TAXI                        RESID. - AEROP.(CWB)              46,00
+04/01/2009   TAXI                        AEROP.(FOZ) - HOTEL               37,00
+09/01/2009   TAXI                        ITAIPU - AEROP.(ASU)              37,03
+09/01/2009   TAXI                        AEROP.(CWB) - RESID.              55,00
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:            175,03
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:              0,00
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2009   I               I
+I   CDVR330S    I       ***   PRESTACAO DE CONTAS   ***        I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:          1.246,20   (+)
+          DESPESAS REALIZADAS....................:            175,03   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:          1.421,23   (=)
+          ADIANTAMENTO DE DIARIAS................:          1.246,90   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:            174,33   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+                                              ---------------------------------
+                                              OLMEDO GONZALEZ, HERMINIO F.  
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE           174,33
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

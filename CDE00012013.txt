@@ -1,0 +1,95 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 1.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: CT /0001/2013   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOMBRE.......: SANTACRUZ MENDOZA, CARLOS         MATRICULA...: 200226-0
+CARGO/FUNC...: JEFE DE DEPARTAMENTO              EMPRESA.....: ITAIPU MD 
+COD.AREA.....: COC.DF                            SEDE EMPLEAD: CT 
+DESTINO......: FOZ DO IGUACU                     GRUPO.......: B  
+PERIODO VIAJE: 08/01/2013 AL 10/01/2013          LOCAL PAGO..: CT 
+HORA.........:   13:33    A    17:00             CORRENTISTA.: 0000300882
+BCO P/CRED...: CAIXA ECONOMICA FEDERAL           AGE.: 2687-5  CTA: 800724-1    
+                     FONDO  ORDEN  CTA MAYOR   CECO   LOC.PG.    PER
+                       00  004006 3134045201   60320    2        100
+MOT.VIAJE..: 11 SERV. DE LA PROPIA AREA            
+OBS:                                                                       
+DESCRIPCION DEL MOTIVO DEL VIAJE:
+ ACTIVIDADES PROPIAS DEL áREA, REUNION SEXTANTE/FUNDACIóN MOISES BERTONI    
+                                                                            
+-------------------------***   CALCULO DE LOS VIATICOS    ***-------------------
+LOCAL FC.INICIAL  FC.FINAL     CANT    PORC.%            VALOR             TOTAL
+ FOZ  08/01/2013  09/01/2013     2     100,00           240,00            480,00
+ FOZ  10/01/2013  10/01/2013     1      35,00           240,00             84,00
+-------------------------------***       PASAJES       ***----------------------
+ORIGEN       DESTINO      FECHA    HORA  NR.PAS.CIA              VALOR      SIT.
+CURITIBA     FOZ DO IGUAC 08/01/13 13:33 567764 LATAM           506,05     UTIL.
+FOZ DO IGUAC CURITIBA     10/01/13 17:00 CDFIST GOL             401,34     UTIL.
+-----------------------------***  GASTOS ADICIONALES   ***----------------------
+FECHA        DESCRIPCION GASTOS          DETALLES                         VALOR
+08/01/2013   TAXI                        ITAIPU/AEROP. CTBA.               65,00
+08/01/2013   TAXI                        AEROP. FOZ/C. EXEC.               55,00
+10/01/2013   TAXI                        AEROP. CTBA/RESID                 65,00
+----------------------***   RESUMEN POR GRUPO DE GASTOS    ***------------------
+TRANSPORTE:
+                    PASAJES ADQUIRIDOS POR EL EMPLEADO (*).:              0,00
+                    TASA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:            185,00
+                    TASA DE DESPACHO DE EQUIPAJE...........:              0,00
+P/USO DEL CHOFER:
+                    COMBUSTIBLES Y LUBRICANTES.............:              0,00
+                    ARREGLOS EN TALLERES...................:              0,00
+                    NEUMATICOS, PIEZAS, ETC,...............:              0,00
+                    ESTACIONAMIENTO Y PEAJE................:              0,00
+OTROS GASTOS:
+                    LLAMADAS TELEF, FAX, TELEGRAMA.........:              0,00
+                    GASTOS SIN COMPROBANTE.................:              0,00
+                    VISTOS DIPLOMATICOS ...................:              0,00
+                    OTROS GASTOS C/. COMPROBANTE...........:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 2.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: CT /0001/2013   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMEN     ***-------------------------
+
+          VIATICOS PAGADOS (DIARIAS).............:            564,00   (+)
+          REEMBOLSO DE GASTOS ADICIONAIS.........:            185,00   (+)
+    TOTAL DEL CREDITO PARA EL EMPLEADO...........:            749,00   (=)
+          ADELANDO DE VIATICOS...................:              0,00   (-)
+          ADELANTO DE GASTOS.....................:              0,00   (-)
+          ADELANTO DEL COMPLEMENTO DE VIATICOS...:              0,00   (-)
+    SALDO A PAGAR   AL EMPLEADO EN REAIS ........:            749,00   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROBACION DE LOS GASTOS:                  ---------------------------------
+                                              FIR.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO QUE SON EXACTAS LAS INFORMACIONES CITADAS
+
+               +-- IMPORTANTE :-------------------------------------+
+               : Antes de su proximo viaje, verifique si es posible :
+               : substituirlo por una videoconferencia              :
+               +----------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              SANTACRUZ MENDOZA, CARLOS     
+                                              FIRMA  EMPLEADO  ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DE LA TESORERIA    PAGUE  EN REAIS     EL SALDO DE           749,00
+
+
+                                              ---------------------------------
+                                                   FIRMA DEL CAJERO   
+
+----------------------------------------------- 1a. Via Original - Tesoreria ---

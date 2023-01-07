@@ -1,0 +1,93 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 1.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: ASU/0001/2007   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOMBRE.......: MACIEL MARTINEZ, JOSE RAMON       MATRICULA...: 130425-1
+CARGO/FUNC...: INGENIERO PLENO I                 EMPRESA.....: ITAIPU MD 
+COD.AREA.....: OD.CE                             SEDE EMPLEAD: ASU
+DESTINO......: CIUDAD DEL ESTE                   GRUPO.......: C  
+PERIODO VIAJE: 25/12/2006 AL 29/12/2006          LOCAL PAGO..: ASU
+HORA.........:   16:00    A    16:00             CORRENTISTA.: 0000400877
+BCO P/CRED...: ABN AMRO BANK                     AGE.: 0012    CTA: 4312128898  
+                     FONDO  ORDEN  CTA MAYOR   CECO   LOC.PG.    PER
+                       00  000007 3134065201   71400    1        100
+MOT.VIAJE..: 11 SERV. DE LA PROPIA AREA            
+OBS:                                                                       
+DESCRIPCION DEL MOTIVO DEL VIAJE:
+ TRABAJO ENCOMENDADO POR EL D.G.P.                                          
+                                                                            
+-------------------------***   CALCULO DE LOS VIATICOS    ***-------------------
+LOCAL FC.INICIAL  FC.FINAL     CANT    PORC.%            VALOR             TOTAL
+ CDE  25/12/2006  28/12/2006     4     100,00       186.900,00        747.600,00
+ CDE  29/12/2006  29/12/2006     1      35,00       186.900,00         65.415,00
+-------------------------------***       PASAJES       ***----------------------
+ORIGEN       DESTINO      FECHA    HORA  NR.PAS.CIA              VALOR      SIT.
+ASUNCION     CDE          25/12/06 16:00  28706              64.600,00 (*) UTIL.
+CDE          ASUNCION     29/12/06 16:00   0950              66.000,00 (*) UTIL.
+-----------------------------***  GASTOS ADICIONALES   ***----------------------
+FECHA        DESCRIPCION GASTOS          DETALLES                         VALOR
+25/12/2006   TAXI                        TERMINAL-HOTEL                15.000,00
+----------------------***   RESUMEN POR GRUPO DE GASTOS    ***------------------
+TRANSPORTE:
+                    PASAJES ADQUIRIDOS POR EL EMPLEADO (*).:        130.600,00
+                    TASA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:         15.000,00
+                    TASA DE DESPACHO DE EQUIPAJE...........:              0,00
+P/USO DEL CHOFER:
+                    COMBUSTIBLES Y LUBRICANTES.............:              0,00
+                    ARREGLOS EN TALLERES...................:              0,00
+                    NEUMATICOS, PIEZAS, ETC,...............:              0,00
+                    ESTACIONAMIENTO Y PEAJE................:              0,00
+OTROS GASTOS:
+                    LLAMADAS TELEF, FAX, TELEGRAMA.........:              0,00
+                    GASTOS SIN COMPROBANTE.................:              0,00
+                    VISTOS DIPLOMATICOS ...................:              0,00
+                    OTROS GASTOS C/. COMPROBANTE...........:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 2.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: ASU/0001/2007   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMEN     ***-------------------------
+
+          VIATICOS PAGADOS (DIARIAS).............:        813.015,00   (+)
+          REEMBOLSO DE GASTOS ADICIONAIS.........:        145.600,00   (+)
+    TOTAL DEL CREDITO PARA EL EMPLEADO...........:        958.615,00   (=)
+          ADELANDO DE VIATICOS...................:              0,00   (-)
+          ADELANTO DE GASTOS.....................:              0,00   (-)
+          ADELANTO DEL COMPLEMENTO DE VIATICOS...:              0,00   (-)
+    SALDO A PAGAR   AL EMPLEADO EN GUARANIES ....:        958.615,00   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROBACION DE LOS GASTOS:                  ---------------------------------
+                                              FIR.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO QUE SON EXACTAS LAS INFORMACIONES CITADAS
+
+               +-- IMPORTANTE :-------------------------------------+
+               : Antes de su proximo viaje, verifique si es posible :
+               : substituirlo por una videoconferencia              :
+               +----------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              MACIEL MARTINEZ, JOSE RAMON   
+                                              FIRMA  EMPLEADO  ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DE LA TESORERIA    PAGUE  EN GUARANIES EL SALDO DE       958.615,00
+
+
+                                              ---------------------------------
+                                                   FIRMA DEL CAJERO   
+
+----------------------------------------------- 1a. Via Original - Tesoreria ---

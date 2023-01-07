@@ -1,0 +1,101 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2013   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: SANTACRUZ MENDOZA, CARLOS            MATRICULA...: 200226-0
+CARGO/FUNC.: JEFE DE DEPARTAMENTO                 EMPRESA.....: ITAIPU MD 
+LOTACAO....: COC.DF                               ESCR.EMPREG.: CT 
+DESTINO....: FOZ DO IGUACU                        GRUPO DIARIA: B  
+PERIODO DE.: 08/01/2013 A 10/01/2013              LOCAL PGTO..: CT 
+HORA.......:   13:33    A   17:00                 CORRENTISTA.: 0000300882
+BCO P/CRED.: CAIXA ECONOMICA FEDERAL         AGE.: 2687-5  CTA: 800724-1    
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  004006 3134045201   60320    2        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS:                                                                       
+DESCRICAO DO MOTIVO DA VIAGEM:
+ ACTIVIDADES PROPIAS DEL áREA, REUNION SEXTANTE/FUNDACIóN MOISES BERTONI    
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ FOZ  08/01/2013  09/01/2013     2     100,00           240,00            480,00
+ FOZ  10/01/2013  10/01/2013     1      35,00           240,00             84,00
+------------------------------***        PASSAGENS      ***---------------------
+ORIGEM       DESTINO      DATA     HORA  NR.BIL.CIA              VALOR      SIT.
+CURITIBA     FOZ DO IGUAC 08/01/13 13:33 567764 LATAM           506,05     UTIL.
+FOZ DO IGUAC CURITIBA     10/01/13 17:00 CDFIST GOL             401,34     UTIL.
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+08/01/2013   TAXI                        ITAIPU/AEROP. CTBA.               65,00
+08/01/2013   TAXI                        AEROP. FOZ/C. EXEC.               55,00
+10/01/2013   TAXI                        AEROP. CTBA/RESID                 65,00
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:            185,00
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:              0,00
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2013   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:            564,00   (+)
+          DESPESAS REALIZADAS....................:            185,00   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:            749,00   (=)
+          ADIANTAMENTO DE DIARIAS................:              0,00   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:            749,00   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+               +-- IMPORTANTE :----------------------------------+
+               : Antes da proxima viagem verifique se e possivel :
+               : substitui-la por uma videoconferencia           :
+               +-------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              SANTACRUZ MENDOZA, CARLOS     
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE           749,00
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

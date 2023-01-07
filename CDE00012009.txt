@@ -1,0 +1,86 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 1.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: CDE/0001/2009   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOMBRE.......: GAUTO VELLOZO, DORA CAROLINA      MATRICULA...: 070480-2
+CARGO/FUNC...: AUX. ADMINIST. I                  EMPRESA.....: ITAIPU MD 
+COD.AREA.....: PC.JE                             SEDE EMPLEAD: CDE
+DESTINO......: ASUNCION                          GRUPO.......: D  
+PERIODO VIAJE: 28/12/2008 AL 30/12/2008          LOCAL PAGO..: CDE
+HORA.........:   18:30    A    15:45             CORRENTISTA.: 0000102103
+BCO P/CRED...: BANCO ITAU S.A.                   AGE.: 0002    CTA: 220058917   
+                     FONDO  ORDEN  CTA MAYOR   CECO   LOC.PG.    PER
+                       00  004004 3134045201   41200    1        100
+MOT.VIAJE..: 11 SERV. DE LA PROPIA AREA            
+OBS:                                                                       
+DESCRIPCION DEL MOTIVO DEL VIAJE:
+ TAREAS ENCOMENDADAS POR LA JEFATURA PC.JE                                  
+                                                                            
+-------------------------***   CALCULO DE LOS VIATICOS    ***-------------------
+LOCAL FC.INICIAL  FC.FINAL     CANT    PORC.%            VALOR             TOTAL
+ ASU  28/12/2008  29/12/2008     2     100,00       319.000,00        638.000,00
+ ASU  30/12/2008  30/12/2008     1      35,00       319.000,00        111.650,00
+----------------------***   RESUMEN POR GRUPO DE GASTOS    ***------------------
+TRANSPORTE:
+                    PASAJES ADQUIRIDOS POR EL EMPLEADO (*).:              0,00
+                    TASA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:              0,00
+                    TASA DE DESPACHO DE EQUIPAJE...........:              0,00
+P/USO DEL CHOFER:
+                    COMBUSTIBLES Y LUBRICANTES.............:              0,00
+                    ARREGLOS EN TALLERES...................:              0,00
+                    NEUMATICOS, PIEZAS, ETC,...............:              0,00
+                    ESTACIONAMIENTO Y PEAJE................:              0,00
+OTROS GASTOS:
+                    LLAMADAS TELEF, FAX, TELEGRAMA.........:              0,00
+                    GASTOS SIN COMPROBANTE.................:              0,00
+                    VISTOS DIPLOMATICOS ...................:              0,00
+                    OTROS GASTOS C/. COMPROBANTE...........:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 2.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: CDE/0001/2009   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMEN     ***-------------------------
+
+          VIATICOS PAGADOS (DIARIAS).............:        749.650,00   (+)
+          REEMBOLSO DE GASTOS ADICIONAIS.........:              0,00   (+)
+    TOTAL DEL CREDITO PARA EL EMPLEADO...........:        749.650,00   (=)
+          ADELANDO DE VIATICOS...................:              0,00   (-)
+          ADELANTO DE GASTOS.....................:              0,00   (-)
+          ADELANTO DEL COMPLEMENTO DE VIATICOS...:              0,00   (-)
+    SALDO A PAGAR   AL EMPLEADO EN GUARANIES ....:        749.650,00   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROBACION DE LOS GASTOS:                  ---------------------------------
+                                              FIR.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO QUE SON EXACTAS LAS INFORMACIONES CITADAS
+
+               +-- IMPORTANTE :-------------------------------------+
+               : Antes de su proximo viaje, verifique si es posible :
+               : substituirlo por una videoconferencia              :
+               +----------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              GAUTO VELLOZO, DORA CAROLINA  
+                                              FIRMA  EMPLEADO  ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DE LA TESORERIA    PAGUE  EN GUARANIES EL SALDO DE       749.650,00
+
+
+                                              ---------------------------------
+                                                   FIRMA DEL CAJERO   
+
+----------------------------------------------- 1a. Via Original - Tesoreria ---

@@ -1,0 +1,95 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2013   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: MARCIO ROGERIO R HANKE               MATRICULA...: 003563-8
+CARGO/FUNC.: MOTORISTA II                         EMPRESA.....: ITAIPU ME 
+LOTACAO....: SGST.AD                              ESCR.EMPREG.: FI 
+DESTINO....: SAO MIGUEL IGUACU                    GRUPO DIARIA: D  
+PERIODO DE.: 14/12/2012 A 14/12/2012              LOCAL PGTO..: FI 
+HORA.......:   17:00    A   20:00                 CORRENTISTA.: 0000301541
+BCO P/CRED.: CAIXA ECONOMICA FEDERAL         AGE.: 2687-5  CTA: 166-0       
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  004005 3134045201   52512    4        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS:                                                                       
+DESCRICAO DO MOTIVO DA VIAGEM:
+ A DISPOSIçãO DIRETOR GERAL DE ITAIPU, DR. SAMEK.                           
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ LPR  14/12/2012  14/12/2012     1       0,00           160,00              0,00
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+14/12/2012   ESTACION. E PEDÁGIO         PEDAGIO                           10,80
+14/12/2012   ESTACION. E PEDÁGIO         PEDAGIO                           10,80
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:              0,00
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:             21,60
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: FI /0001/2013   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:              0,00   (+)
+          DESPESAS REALIZADAS....................:             21,60   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:             21,60   (=)
+          ADIANTAMENTO DE DIARIAS................:              0,00   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:             21,60   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+               +-- IMPORTANTE :----------------------------------+
+               : Antes da proxima viagem verifique se e possivel :
+               : substitui-la por uma videoconferencia           :
+               +-------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              MARCIO ROGERIO R HANKE        
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE            21,60
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

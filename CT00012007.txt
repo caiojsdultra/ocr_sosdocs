@@ -1,0 +1,103 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 1.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2007   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOME.......: RODRIGUEZ GAMARRA, FELIX ARIEL       MATRICULA...: 190319-2
+CARGO/FUNC.:                                      EMPRESA.....: ITAIPU MD 
+LOTACAO....: AFRC.DF                              ESCR.EMPREG.: CT 
+DESTINO....: CURITIBA                             GRUPO DIARIA: C  
+PERIODO DE.: 21/12/2006 A 07/01/2007              LOCAL PGTO..: CT 
+HORA.......:   22:50    A   16:30                 CORRENTISTA.: 0000301472
+BCO P/CRED.: CAIXA ECONOMICA FEDERAL         AGE.: 2687-1  CTA: CHEQUEADM   
+                     FUNDO  ORDEM  CTA RAZAO   AREA   LOC.PG.    PER
+                       00  000006 3134045201   60119    2        100
+MOT.VIAGEM.: 11 SERVICO DA PROPRIA AREA            
+OBS: TRAMO CURITIBA/ASUNCION POR MEDIOS PROPIOS                            
+DESCRICAO DO MOTIVO DA VIAGEM:
+ TRABAJOS ENCOMENDADOS POR EL PC.FD                                         
+                                                                            
+--------------------------***      CALCULO DAS DIARIAS     ***------------------
+LOCAL DT.INICIAL  DT.FINAL     QTDE    PERC.%            VALOR             TOTAL
+ ASU  21/12/2006  28/12/2006     8       0,00           204,00              0,00
+ ASU  29/12/2006  29/12/2006     1     100,00           204,00            204,00
+ ASU  30/12/2006  01/01/2007     3       0,00           204,00              0,00
+ ASU  02/01/2007  04/01/2007     3     100,00           204,00            612,00
+ ASU  05/01/2007  05/01/2007     1      35,00           204,00             71,40
+ ASU  06/01/2007  07/01/2007     2       0,00           204,00              0,00
+------------------------------***        PASSAGENS      ***---------------------
+ORIGEM       DESTINO      DATA     HORA  NR.BIL.CIA              VALOR      SIT.
+ASUNCION     CURITIBA     07/01/07 16:45 S74PLS GOL             236,03     UTIL.
+----------------------------***    GASTOS ADICIONAIS   ***----------------------
+DATA         DESCRICAO DA DESPESA        DETALHES                         VALOR
+07/01/2006   TAXI                        RESID/AEROP ASU                   13,48
+07/01/2007   TAXI                        AEROP/RESID CTBA                  77,00
+----------------------***   RESUMO POR GRUPO DE DESPESA    ***------------------
+TRANSPORTE:
+                    PASSAG.ADQUIRIDAS PELO EMPREGADO (*)...:              0,00
+                    TAXA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:             90,48
+                    TAXA DE DESPACHO DE BAGAGEM............:              0,00
+P/USO DO MOTORISTA:
+                    COMBUSTIVEIS E LUBRIFICANTES...........:              0,00
+                    CONSERTOS EM OFICINA...................:              0,00
+                    PECAS, PNEUS, ETC......................:              0,00
+                    ESTACIONAMENTO E PEDAGIO...............:              0,00
+OUTRAS DESPESAS:
+                    TELEFONEMAS, TELEX, FAX, ETC...........:              0,00
+                    DESPESAS SEM COMPROVANTE...............:              0,00
+                    VISTOS DIPLOMATICOS....................:              0,00
+                    OUTRAS DESP.C/COMPROVANTE..............:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROLE DE VIAGENS   I PAGINA. 2.2   I
+I  BINACIONAL   I   SOLICITACAO DE VIAGEM NR.: CT /0001/2007   I               I
+I   CDVR330S    I  ** PRESTACAO DE CONTAS SEM ADIANTAMENTO  ** I DT 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMO      ***-------------------------
+
+          DIARIAS REALIZADAS.....................:            887,40   (+)
+          DESPESAS REALIZADAS....................:             90,48   (+)
+    TOTAL DE CREDITO PARA O EMPREGADO............:            977,88   (=)
+          ADIANTAMENTO DE DIARIAS................:              0,00   (-)
+          ADIANTAMENTO DE DESPESAS...............:              0,00   (-)
+          ADIANTAMENTO DE COMPLEMENTO DIARIAS....:              0,00   (-)
+    SALDO A  PAGAR AO EMPREGADO EM REAIS ........:            977,88   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROVACAO DAS DESPESAS:                       ----------------------------------
+                                              ASS.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO SEREM EXATAS AS INFORMACOES ACIMA
+
+               +-- IMPORTANTE :----------------------------------+
+               : Antes da proxima viagem verifique se e possivel :
+               : substitui-la por uma videoconferencia           :
+               +-------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              RODRIGUEZ GAMARRA, FELIX ARIEL
+                                              CIENTE EMPREGADO ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DA TESOURARIA    PAGUEI EM REAIS     O SALDO DE           977,88
+
+
+                                              ---------------------------------
+                                                   ASSINATURA DO CAIXA
+
+------------------------------------------------------------  VIA TESOURARIA ---
+
++-- MENSAGEM:------------------------------------------------------------------+
+:  USUáRIOS, SERãO PREFERENCIALMENTE COMPRADAS PASSAGENS NA CLASSE ECONôMICA.  :
+:  PASSAGENS NA EXECUTIVA SO COM AUTORIZAçãO DA DIRETORIA DA áREA.             :
++------------------------------------------------------------------------------+
+

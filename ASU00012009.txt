@@ -1,0 +1,86 @@
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 1.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: ASU/0001/2009   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+NOMBRE.......: CABRAL SANCHEZ, JUAN RAMON        MATRICULA...: 030393-8
+CARGO/FUNC...: PROF. SENIOR II                   EMPRESA.....: ITAIPU MD 
+COD.AREA.....: CE                                SEDE EMPLEAD: ASU
+DESTINO......: CIUDAD DEL ESTE                   GRUPO.......: C  
+PERIODO VIAJE: 29/12/2008 AL 30/12/2008          LOCAL PAGO..: ASU
+HORA.........:   03:00    A    11:00             CORRENTISTA.: 0000400349
+BCO P/CRED...: ABN AMRO BANK                     AGE.: 0000    CTA: 0400441801  
+                     FONDO  ORDEN  CTA MAYOR   CECO   LOC.PG.    PER
+                       00  004007 3134045201   71000    1        100
+MOT.VIAJE..: 11 SERV. DE LA PROPIA AREA            
+OBS: ASU/CDE/ASU EN VEHICULO IB.                                           
+DESCRIPCION DEL MOTIVO DEL VIAJE:
+ ACTIVIDADES DEL AREA.                                                      
+                                                                            
+-------------------------***   CALCULO DE LOS VIATICOS    ***-------------------
+LOCAL FC.INICIAL  FC.FINAL     CANT    PORC.%            VALOR             TOTAL
+ CDE  29/12/2008  29/12/2008     1     100,00       325.000,00        325.000,00
+ CDE  30/12/2008  30/12/2008     1      35,00       325.000,00        113.750,00
+----------------------***   RESUMEN POR GRUPO DE GASTOS    ***------------------
+TRANSPORTE:
+                    PASAJES ADQUIRIDOS POR EL EMPLEADO (*).:              0,00
+                    TASA DE EMBARQUE.......................:              0,00
+                    TAXI...................................:              0,00
+                    TASA DE DESPACHO DE EQUIPAJE...........:              0,00
+P/USO DEL CHOFER:
+                    COMBUSTIBLES Y LUBRICANTES.............:              0,00
+                    ARREGLOS EN TALLERES...................:              0,00
+                    NEUMATICOS, PIEZAS, ETC,...............:              0,00
+                    ESTACIONAMIENTO Y PEAJE................:              0,00
+OTROS GASTOS:
+                    LLAMADAS TELEF, FAX, TELEGRAMA.........:              0,00
+                    GASTOS SIN COMPROBANTE.................:              0,00
+                    VISTOS DIPLOMATICOS ...................:              0,00
+                    OTROS GASTOS C/. COMPROBANTE...........:              0,00
+--------------------------------------------------------------------------------
+*---------------*----------------------------------------------*---------------*
+I    ITAIPU     I    C.D.V. - SISTEMA DE CONTROL DE VIAJES     I PAGINA. 2.2   I
+I  BINACIONAL   I     SOLICITUD DE VIAJE NR..: ASU/0001/2009   I               I
+I   CDVR330S    I  **   RENDICION DE CUENTAS SIN ADELANTO   ** I FC 22/11/2022 I
+*---------------*----------------------------------------------*---------------*
+
+--------------------------------***     RESUMEN     ***-------------------------
+
+          VIATICOS PAGADOS (DIARIAS).............:        438.750,00   (+)
+          REEMBOLSO DE GASTOS ADICIONAIS.........:              0,00   (+)
+    TOTAL DEL CREDITO PARA EL EMPLEADO...........:        438.750,00   (=)
+          ADELANDO DE VIATICOS...................:              0,00   (-)
+          ADELANTO DE GASTOS.....................:              0,00   (-)
+          ADELANTO DEL COMPLEMENTO DE VIATICOS...:              0,00   (-)
+    SALDO A PAGAR   AL EMPLEADO EN GUARANIES ....:        438.750,00   (=)
+--------------------------------------------------------------------------------
+
+
+
+
+
+APROBACION DE LOS GASTOS:                  ---------------------------------
+                                              FIR.AUTORIZADA ___/___/_____
+--------------------------------------------------------------------------------
+
+DECLARO QUE SON EXACTAS LAS INFORMACIONES CITADAS
+
+               +-- IMPORTANTE :-------------------------------------+
+               : Antes de su proximo viaje, verifique si es posible :
+               : substituirlo por una videoconferencia              :
+               +----------------------------------------------------+
+
+
+                                              ---------------------------------
+                                              CABRAL SANCHEZ, JUAN RAMON    
+                                              FIRMA  EMPLEADO  ___/___/_____
+
+--------------------------------------------------------------------------------
+
+    PARA USO DE LA TESORERIA    PAGUE  EN GUARANIES EL SALDO DE       438.750,00
+
+
+                                              ---------------------------------
+                                                   FIRMA DEL CAJERO   
+
+----------------------------------------------- 1a. Via Original - Tesoreria ---
